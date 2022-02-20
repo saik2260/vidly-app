@@ -1,0 +1,2 @@
+mongodb+srv://vidlyuser:<password>@vidly.qmrhz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongodb+srv://vidlyuser:<password>@vidly.qmrhz.mongodb.net/test
